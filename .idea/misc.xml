@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shopery/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/drawable/highly_rated.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/drawable/ic_attach_money_black_24dp.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/drawable/ic_shopping_bag.xml" value="0.2484375" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_category.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_cereals_show.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_fruit_show.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_splash.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/activity_vegetable_show.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/card_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/content_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/fragment_cart.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/fragment_first.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/fragment_menu_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/Shopery/app/src/main/res/layout/menu_item_row.xml" value="0.23229166666666667" />
+        <entry key="..\:/Shopery/app/src/main/res/menu/menu_main.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
